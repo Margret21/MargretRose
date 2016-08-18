@@ -152,7 +152,7 @@ fieldset[disabled] .btn-xl.active {
 }
 .navbar-custom .navbar-brand {
   color: #ef4136;
-  font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
+  font-family: "Didot", "Garamond", Helvetica, Arial, cursive;
 }
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus,
@@ -207,7 +207,7 @@ fieldset[disabled] .btn-xl.active {
     border: none;
   }
   .navbar-custom .navbar-brand {
-    font-size: 2em;
+    font-size: 2.5em;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     transition: all 0.3s;
@@ -226,7 +226,7 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  background-image: url('../img/header-bg.jpg');
+  background-image: url('../img/SkylineBlue.jpg');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
