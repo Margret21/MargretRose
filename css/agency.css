@@ -63,6 +63,12 @@ h6 {
   text-transform: uppercase;
   font-weight: 700;
 }
+
+.modal-body button {
+  background-color: #ef4136;
+  border-color: #ef4136;
+}
+
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active,
@@ -226,7 +232,7 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  background-image: url('../img/SkylineBlue.jpg');
+  background-image: url('../img/Home/SkylineBlue.jpg');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -555,7 +561,7 @@ aside.clients img {
 }
 section#contact {
   background-color: #0c0c0c;
-  background-image: url('../img/map-image.png');
+  background-image: url('../img/Home/map-image.png');
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -671,6 +677,7 @@ ul.social-buttons li a:active {
 .portfolio-modal .modal-content h2 {
   margin-bottom: 15px;
   font-size: 3em;
+  color: #ef4136
 }
 .portfolio-modal .modal-content p {
   margin-bottom: 30px;
