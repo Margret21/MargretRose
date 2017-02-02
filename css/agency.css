@@ -234,7 +234,7 @@ fieldset[disabled] .btn-xl.active {
 header {
   background-image: url('../img/Home/SkylineBlue.jpg');
   background-repeat: no-repeat;
-  background-attachment: scroll;
+  background-attachment: fixed;
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
